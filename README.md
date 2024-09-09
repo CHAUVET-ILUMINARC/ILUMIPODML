@@ -1,5 +1,12 @@
-# ILUMIPODML
+# Ilumipod ML
 
-# Uploader is Ilumicode/Colorado 
-[V1.04-211201 – Ilumipod ML](https://github.com/CHAUVET-ILUMINARC/ILUMIPODML/blob/6b3675b4145a4c07a30978de52cd8674121ef766/firmware/PodML_V104_211201.zip)
-- Release software version.
+### Uploader is Ilumicode/Colorado 
+&nbsp;
+
+## Software Versions
+
+[V1.230731 - Ilumipod ML](https://github.com/CHAUVET-ILUMINARC/ILUMIPODML/blob/73bd30e1149070eeba3243556b46fe539f923145/firmware/V1.230731.zip)
+- Added full RDM setup/control capability
+
+[V1.04 – Ilumipod ML](https://github.com/CHAUVET-ILUMINARC/ILUMIPODML/blob/73bd30e1149070eeba3243556b46fe539f923145/firmware/V1.04_211201.zip)
+- Released initial software version
